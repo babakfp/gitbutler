@@ -155,8 +155,7 @@
 		top: 0;
 		left: 0;
 		height: 100%;
-		width: 1px;
-		background-color: var(--clr-border-2);
+		border-left: 1px solid var(--clr-border-2);
 	}
 	.connector {
 		width: 1rem;
